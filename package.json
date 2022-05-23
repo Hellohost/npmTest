@@ -1,0 +1,20 @@
+{
+  "name": "naviginereactnativetest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/LocationView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hellohost/npmTest.git"
+  },
+  "keywords": [],
+  "author": "hellohost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hellohost/npmTest/issues"
+  },
+  "homepage": "https://github.com/Hellohost/npmTest#readme"
+}
