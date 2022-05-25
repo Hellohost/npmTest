@@ -1,8 +1,8 @@
 {
-  "name": "naviginereactnativetest1",
+  "name": "naviginereactnativetest9",
   "version": "1.0.0",
   "description": "",
-  "main": "src/LocationView.js",
+  "main": "components/LocationView.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
